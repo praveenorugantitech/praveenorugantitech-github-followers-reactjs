@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script&display=swap");
+
+.container {
+  min-height: 100vh;
+  height: 100%;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header_container {
+  text-align: center;
+}
+
+.header {
+  font-weight: bold;
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  background: linear-gradient(to right, #232e3a, #528ece);
+  background-clip: initial;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sub_header {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  align-items: center;
+}
+
+.response__container {
+  align-items: center;
+  text-align: center;
+  padding: 1vw 0;
+}
+
+.paragraph {
+  font-size: 2.6vh;
+}
+
+.paragraph a {
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.search_container {
+  text-align: center;
+  padding: 4vw;
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+.search {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.followers {
+  width: 400px;
+  padding: 0;
+  margin: 0;
+}
+
+.followers li {
+  padding: 10px;
+}
+.total {
+  padding: 2vw 0;
+  display: block;
+  font-size: 1.2em;
+}
