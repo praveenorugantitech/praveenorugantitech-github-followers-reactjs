@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-github-followers-reactjs/static/css/main.8f6ea31b.chunk.css",
+    "main.js": "/praveenorugantitech-github-followers-reactjs/static/js/main.15404b0d.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-github-followers-reactjs/static/js/runtime-main.4988e2b0.js",
+    "static/css/2.d6b316a6.chunk.css": "/praveenorugantitech-github-followers-reactjs/static/css/2.d6b316a6.chunk.css",
+    "static/js/2.1f44dd8d.chunk.js": "/praveenorugantitech-github-followers-reactjs/static/js/2.1f44dd8d.chunk.js",
+    "index.html": "/praveenorugantitech-github-followers-reactjs/index.html",
+    "static/js/2.1f44dd8d.chunk.js.LICENSE.txt": "/praveenorugantitech-github-followers-reactjs/static/js/2.1f44dd8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4988e2b0.js",
+    "static/css/2.d6b316a6.chunk.css",
+    "static/js/2.1f44dd8d.chunk.js",
+    "static/css/main.8f6ea31b.chunk.css",
+    "static/js/main.15404b0d.chunk.js"
+  ]
+}
